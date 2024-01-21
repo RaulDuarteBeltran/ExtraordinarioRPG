@@ -1,6 +1,6 @@
 ﻿namespace Extraordinario;
 
-public enum ClaseHabilidad
+public enum ClaseHabilidadEnum
 {
     Activa,
     Pasiva
