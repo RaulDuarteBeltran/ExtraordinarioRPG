@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Clases/" />
-    <Folder Include="Interfaces/" />
   </ItemGroup>
 
 </Project>
